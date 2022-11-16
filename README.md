@@ -59,7 +59,9 @@ Program/Mirror starts of in its off state where only time and Power button is di
 
 - Health/Activity: All elements of Health/Activity panel are hardcoded to display relevant Health Statistics. When mirror is turned on, A timer is started to calculate time spent infront of mirror to notify user of unhealthy interaction habits with Smart mirror that may lead to time wasting or/and lateness to events.
 
-
+<p align="center">
+<img src="./p2.ejiroghene.greg-amaihwe.gif" alt="SKETCH">              
+</p>
 
 
 #
