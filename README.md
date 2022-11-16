@@ -17,7 +17,7 @@ __Github repository:__ https://github.com/EGreg-Amaihwe/egreg-amaihwe.github.io
 
 __Processing Demo Video of Proposed Design:__ https://youtu.be/QvCTUp_AuhM
 
-__Presentation Video:__ 
+__Presentation Video:__ https://www.youtube.com/watch?v=FWs7EsGXv2M
 
 
 
@@ -85,6 +85,7 @@ __Advanced features__
 SKETCH
 </p>
 
+__Presentation Video:__ https://www.youtube.com/watch?v=FWs7EsGXv2M
 
 
 
