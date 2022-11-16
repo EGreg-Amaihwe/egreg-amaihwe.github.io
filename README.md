@@ -27,8 +27,10 @@ __Sketch of interface__
 
 
 <p align="center">
-<img src="./p2.ejiroghene.greg-amaihwe.png" alt="lasagna">              
+<img src="./p2.ejiroghene.greg-amaihwe.png" alt="SKETCH">              
 </p>
+
+https://github.com/EGreg-Amaihwe/egreg-amaihwe.github.io/blob/main/p2.ejiroghene.greg-amaihwe.png 
 
 Discussions of your design and your sketch for the C
 
