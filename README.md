@@ -9,11 +9,15 @@ Project Description:
 
 # Links
 
-__Presentation page:__ 
+__Presentation page:__ https://egreg-amaihwe.github.io/
 
 __Github repository:__ https://github.com/EGreg-Amaihwe/egreg-amaihwe.github.io
 
-__Processing Demo of Proposed Design:__ 
+
+
+__Processing Demo Video of Proposed Design:__ https://youtu.be/QvCTUp_AuhM
+__Presentation Video:__ 
+
 
 
 
@@ -30,7 +34,7 @@ __Sketch of interface__
 <img src="./p2.ejiroghene.greg-amaihwe.png" alt="SKETCH">              
 </p>
 
-https://github.com/EGreg-Amaihwe/egreg-amaihwe.github.io/blob/main/p2.ejiroghene.greg-amaihwe.png 
+SKETCH link: https://github.com/EGreg-Amaihwe/egreg-amaihwe.github.io/blob/main/p2.ejiroghene.greg-amaihwe.png 
 
 Discussions of your design and your sketch for the C
 
@@ -59,10 +63,10 @@ Program/Mirror starts of in its off state where only time and Power button is di
 
 - Health/Activity: All elements of Health/Activity panel are hardcoded to display relevant Health Statistics. When mirror is turned on, A timer is started to calculate time spent infront of mirror to notify user of unhealthy interaction habits with Smart mirror that may lead to time wasting or/and lateness to events.
 
-<p align="center">
-<img src="./p2.ejiroghene.greg-amaihwe.gif" alt="SKETCH">              
-</p>
 
+<p align="center">
+<img src="./p2.ejiroghene.greg-amaihwe.gif" alt="DEMO.GIF">              
+</p>
 
 #
 
@@ -80,10 +84,6 @@ __Advanced features__
 SKETCH
 </p>
 
-
-
-
-__DEMO LINK:__ https://youtu.be/QvCTUp_AuhM
 
 
 
