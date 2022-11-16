@@ -11,7 +11,7 @@ Project Description:
 
 __Presentation page:__ 
 
-__Github repository:__ 
+__Github repository:__ https://github.com/EGreg-Amaihwe/egreg-amaihwe.github.io
 
 __Processing Demo of Proposed Design:__ 
 
@@ -81,6 +81,7 @@ SKETCH
 
 
 
-__PRESENTATION YOUTUBE LINK:__ https://youtube.com/shorts/1Pg5nLl6ij0?feature=share
+__DEMO LINK:__ https://youtu.be/QvCTUp_AuhM
+
 
 
