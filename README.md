@@ -81,9 +81,7 @@ __Advanced features__
 2. Lighting: The Smart Mirror includes a Light up Border that can be controled by Brightness control slider at the bottom and middle of mirror. 
 
 
-<p align="center">
-SKETCH
-</p>
+
 
 __Presentation Video:__ https://www.youtube.com/watch?v=FWs7EsGXv2M
 
