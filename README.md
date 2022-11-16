@@ -27,7 +27,7 @@ __Sketch of interface__
 
 
 <p align="center">
-<img width="700" alt="elevator interface" src="https://github.com/EGreg-Amaihwe/p2.Ejiroghene.Greg-Amaihwe/blob/main/p2.Ejiroghene.Greg-Amaihwe.png">              
+<img width="500" alt="elevator interface" src="https://github.com/EGreg-Amaihwe/p2.Ejiroghene.Greg-Amaihwe/blob/main/p2.Ejiroghene.Greg-Amaihwe.png">              
 </p>
 
 Discussions of your design and your sketch for the C
