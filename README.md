@@ -77,9 +77,7 @@ SKETCH
 </p>
 
 
-<p align="center">
-<img width="479" alt="PRESENTATION VIDEO" src="https://user-images.githubusercontent.com/114527383/192914672-f7ccae56-297d-4454-b968-565435b3df6b.png">
-</p>
+
 
 __PRESENTATION YOUTUBE LINK:__ https://youtube.com/shorts/1Pg5nLl6ij0?feature=share
 
